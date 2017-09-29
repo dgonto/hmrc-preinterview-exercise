@@ -1,0 +1,112 @@
+/* Header */
+header, h1 {
+    margin-left: 14px;
+}
+
+.header-bar {
+    height: 10px;
+    background-color: #005ea5;
+    max-width: 960px;
+}
+
+.hm-revenue-customs {
+    color: #0b0c0c;
+    height: 30px;
+    width: auto;
+    padding-left: 10px;
+    border-left: 2px solid #009390;
+    margin: 10px;
+}
+
+.hm-revenue-customs-text {
+    text-decoration: none;
+    color: #0b0c0c;
+}
+
+.header-img {
+    vertical-align:middle;
+    width: 32px;
+    height:32px;
+}
+
+label {
+    display: block;
+    padding-bottom: 10px;
+    font-size: 19px;
+    line-height: 1.31579;
+}
+
+fieldset {
+   border:0 none;
+}
+
+p {
+     margin:0px;
+}
+ 
+.button {
+    background-color: #00823b;
+    position: relative;
+    display: block;
+    padding: .526315em .789473em .263157em;
+    border: none;
+    border-radius: 0;
+    outline: 1px solid transparent;
+    outline-offset: -1px;
+    box-shadow: 0 2px 0 #003618;
+    font-size: 1em;
+    line-height: 1.25;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    box-sizing: border-box;
+ }
+
+input:focus {
+    outline: 3px solid #ffbf47;
+}
+
+.button:focus {
+    background-color: #00692f;
+    outline: 3px solid #ffbf47;
+}
+
+.button:hover {
+    background-color: #00692f;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
+
+input[type="text" ] {
+    height: 20px;
+}
+
+.small-text-box {
+    width: 100px;
+}
+
+.get-help {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #dee0e2;
+    padding: 80px 80px 80px 10px;
+}
+
+.ni-link {
+    margin-left: 30px;
+}
+
+ul li{
+    display: inline;
+  }
+
+ul {
+    padding: 0px;
+} 
